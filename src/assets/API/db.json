@@ -1,0 +1,6 @@
+{
+  "imagesdata": [
+    { "id": 1, "imgname": "Flower", "imgpath": "images/flower.jpeg" },
+    { "id": 2, "imgname": "Nature", "imgpath": "images/nature.jpeg" }
+  ]
+}

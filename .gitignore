@@ -1,0 +1,22 @@
+# Dependencies and generated output
+/node_modules/
+/dist/
+/.angular/
+/out-tsc/
+/coverage/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor / operating system
+.idea/
+.vscode/*
+!.vscode/extensions.json
+!.vscode/tasks.json
+!.vscode/launch.json
+.DS_Store
+Thumbs.db
